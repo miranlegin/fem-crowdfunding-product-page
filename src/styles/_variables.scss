@@ -1,0 +1,32 @@
+:root {
+  // colors
+
+  --primary-400: hsl(176, 50%, 47%);
+  --primary-700: hsl(176, 72%, 28%);
+  --neutral-900: hsl(0, 0%, 0%);
+  --neutral-700: hsl(0, 0%, 48%);
+  --neutral-300: hsl(0, 0%, 98%);
+  --neutral-100: hsl(0, 0%, 100%);
+
+  // fonts
+
+  --ff-base: 'Commissioner', sans-serif;
+
+  --fw-400: 400;
+  --fw-500: 500;
+  --fw-700: 700;
+
+  // layout
+
+  --site-width: 730px;
+  --site-padding: 1.5rem;
+
+  --container-width: 730px;
+  // --container-padding: 3rem;
+  // --container-padding: 1.5rem;
+
+  --card-gap: 1.5rem;
+  --card-padding: 2rem;
+  --card-padding: 1.5rem;
+  --card-radius: 0.5rem;
+}

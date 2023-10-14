@@ -1,0 +1,38 @@
+{
+  "productName": "Mastercraft Bamboo Monitor Riser",
+  "productDescription": "A beautiful & handcrafted monitor stand to reduce neck and eye strain.",
+  "backedTotal": "89914",
+  "backedMax": "100000",
+  "backersTotal": "5007",
+  "daysLeft": "56",
+  "pledges": [
+    {
+      "pledgeId": "1",
+      "pledgeName": "Pledge with no reward",
+      "pledgeDescription": "Choose to support us without a reward if you simply believe in our project. As a backer, you will be signed up to receive product updates via email.",
+      "pledgeMin": "0",
+      "pledgeLeft": "999"
+    },
+    {
+      "pledgeId": "2",
+      "pledgeName": "Bamboo Stand",
+      "pledgeDescription": "You get an ergonomic stand made of natural bamboo. You've helped us launch our promotional campaign, and you’ll be added to a special Backer member list.",
+      "pledgeMin": "25",
+      "pledgeLeft": "101"
+    },
+    {
+      "pledgeId": "3",
+      "pledgeName": "Black Edition Stand",
+      "pledgeDescription": "You get a Black Special Edition computer stand and a personal thank you. You’ll be added to our Backer member list. Shipping is included.",
+      "pledgeMin": "75",
+      "pledgeLeft": "64"
+    },
+    {
+      "pledgeId": "4",
+      "pledgeName": "Mahogany Special Edition",
+      "pledgeDescription": "You get two Special Edition Mahogany stands, a Backer T-Shirt, and a personal thank you. You’ll be added to our Backer member list.  Shipping is included.",
+      "pledgeMin": "200",
+      "pledgeLeft": "0"
+    }
+  ]
+}
